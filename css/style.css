@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap");
+@import url("https://gist.githubusercontent.com/Rougemoot/14ec3cbe0221187616ad18a8e9e74c3d/raw/aad2430219c14a0ca075aecfff2eef4ddcd51ca8/gruvbox-palette.css");
 
 /* V A R I A B L E S */
 
@@ -10,9 +11,9 @@
   --fses: 16px; /* Links List */
 
   /* Light theme  */
-  --accent: #4b8ec4; /* Hover color */
-  --bg: #f5f5f5; /* Background color */
-  --sbg: #e4e6e6; /* Cards color */
+  --accent: #665c54; /* Hover color */
+  --bg: #282828; /* Background color */
+  --sbg: #504945; /* Cards color */
   --fg: #3a3a3a; /* Foreground color */
   --sfg: #3a3a3a; /* Sceondary Foreground color */
 
